@@ -1,0 +1,12 @@
+homepage: 
+    col 8: postlist
+    col 4: sidebar
+post-detail
+    post-item
+        post-head
+        post-content
+        post-footer
+    post-feeling
+    post comment add
+    post comments
+        comments item
